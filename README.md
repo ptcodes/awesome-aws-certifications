@@ -8,14 +8,14 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 - [Whitepapers](#whitepapers)
 - [FAQs](#faqs)
 - [Learning Resources](#learning-resources)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Communities](#communities)
+  - [Videos](#videos)
 - [AWS Certified Cloud Practitioner](#aws-certified-cloud-practitioner)
 - [AWS Certified Solutions Architect - Associate](#aws-certified-solutions-architect---associate)
 - [AWS Certified Developer - Associate](#aws-certified-developer---associate)
 - [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate)
-- [Resources](#resources)
-  - [Books](#books)
-  - [Communities](#communities)
-  - [Videos](#videos)
  
  
  ## Official AWS Certification Pages
@@ -65,34 +65,54 @@ A curated list of AWS certification materials: videos courses, practice exams, p
  
 ## Learning Resources
 
+### Articles
+
 * [AWS Cheat Sheets](https://tutorialsdojo.com/links-to-all-aws-cheat-sheets/)
 * [Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
 * [Discovering AWS: Short Explanation of Each Service](https://adayinthelifeof.nl/2020/05/20/aws.html)
 * [AWS concepts from A to Z](https://dev.to/helenanders26/aws-series-aws-from-a-to-z-45b1)
 * [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/)
  
+### Books
+
+* _paid_ [The Good Parts of AWS by Daniel Vassallo and Josh Pschorr](https://gumroad.com/l/aws-good-parts)
+
+### Communities
+
+* [Reddit's r/AWSCertifications](https://www.reddit.com/r/AWSCertifications/)
+* [A Cloud Guru Forums](https://acloud.guru/forums/rooms?p=1)
+* [Linux Academy Community](https://linuxacademy.com/community/)
+
+### Videos
+
+* [Certification Quiz Show on Twitch](https://www.twitch.tv/collections/aFU_9HNWuRWPKQ?filter=collections)
+* [AWS re:Invent Videos](https://www.youtube.com/results?search_query=aws+reinvent)
+
  
 ## AWS Certified Cloud Practitioner
 
 *Learn cloud fundamentals and best practices*
 
 ### Official Pages
-* [Official Certification Page](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+* [Certification Page](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+* [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
 ### Videos Courses
 
-* _free_ [Youtube video course by Andrew Brown of ExamPro: 4 hours](https://www.youtube.com/watch?v=3hLmDS179YE)
-* [A Cloud Guru course by Ryan Kroonenburg: 9.7 hours and 1 practice exam](https://acloud.guru/learn/aws-certified-cloud-practitioner)
-* [Udemy course by Stephane Maarek: 11 hours, 5 articles and 1 practice test](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
-* [Udemy course by Zeal Vora: 16.5 hours, 14 articles and 1 practice test](https://www.udemy.com/course/aws-certified-cloud-practitioner/)
-* [Whizlabs course: 6 hours and 21 labs](https://www.whizlabs.com/aws-certified-cloud-practitioner/online-course/) 
-* [Udemy course by Alan Rodrigues: 9 hours, 13 articles and 2 practice tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-2018/)
+* [Youtube video course by Andrew Brown of ExamPro: 4 hours](https://www.youtube.com/watch?v=3hLmDS179YE)
+* _paid_ [A Cloud Guru course by Ryan Kroonenburg: 9.7 hours and 1 practice exam](https://acloud.guru/learn/aws-certified-cloud-practitioner)
+* _paid_ [Udemy course by Stephane Maarek: 11 hours, 5 articles and 1 practice test](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+* _paid_ [Udemy course by Zeal Vora: 16.5 hours, 14 articles and 1 practice test](https://www.udemy.com/course/aws-certified-cloud-practitioner/)
+* _paid_ [Whizlabs course: 6 hours and 21 labs](https://www.whizlabs.com/aws-certified-cloud-practitioner/online-course/) 
+* _paid_ [Udemy course by Alan Rodrigues: 9 hours, 13 articles and 2 practice tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-2018/)
 
 ### Practice Exams
 
-* [Udemy Practice Exam Questions by Neal Davis: 6 practice tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/)
-* [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
-* [Whizlabs: 3 Full-Length Mock Exams (195 unique questions) and Practice Tests – 3 Set of the quiz (65 questions in each quiz)](https://www.whizlabs.com/aws-certified-cloud-practitioner/practice-tests/)
+* [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
+* _paid_ [Udemy Practice Exam Questions by Neal Davis: 6 practice tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/)
+* _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
+* _paid_ [Whizlabs: 3 Full-Length Mock Exams (195 unique questions) and Practice Tests – 3 Set of the quiz (65 questions in each quiz)](https://www.whizlabs.com/aws-certified-cloud-practitioner/practice-tests/)
 ### Notes
 
 * [AWS Certified Cloud Practitioner Exam Study Path](https://tutorialsdojo.com/aws-certified-cloud-practitioner/)
@@ -112,18 +132,18 @@ A curated list of AWS certification materials: videos courses, practice exams, p
  
 ### Video Courses
 
-* _free_ [Youtube video course by Andrew Brown of ExamPro: 10.5 hours video](https://www.youtube.com/watch?v=Ia-UEYYR44s)
-* [Udemy course by Stephane Maarek: 23.5 hours video and 2 practice tests](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
-* [A Cloud Guru course by Ryan Kroonenburg: 22.7 hours video and 1 practice exam](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
-* [Linux Academy course by Adrian Cantrill: 57 hours video and 26 quizzes/exams](https://linuxacademy.com/course/aws-certified-solutions-architect-associate-level/)
+* [Youtube video course by Andrew Brown of ExamPro: 10.5 hours video](https://www.youtube.com/watch?v=Ia-UEYYR44s)
+* _paid_ [Udemy course by Stephane Maarek: 23.5 hours video and 2 practice tests](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
+* _paid_ [A Cloud Guru course by Ryan Kroonenburg: 22.7 hours video and 1 practice exam](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+* _paid_ [Linux Academy course by Adrian Cantrill: 57 hours video and 26 quizzes/exams](https://linuxacademy.com/course/aws-certified-solutions-architect-associate-level/)
 
 ### Practice Exams
 
-* _free_ [Official Sample Questions for SAA-C01](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf)
-* _free_ [Official Sample Questions for SAA-C02](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
-* _free_ [20 sample questions by Digital Cloud Training](https://digitalcloud.training/quizzes/aws-certified-solutions-architect-associate-free-practice-questions/)
-* [Tutorials Dojo 5 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
-* [Whizlabs 7 mock exams (600+ practice questions)](https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/)
+* [Official Sample Questions for SAA-C01](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf)
+* [Official Sample Questions for SAA-C02](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
+* [20 sample questions by Digital Cloud Training](https://digitalcloud.training/quizzes/aws-certified-solutions-architect-associate-free-practice-questions/)
+* _paid_ [Tutorials Dojo 5 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
+* _paid_ [Whizlabs 7 mock exams (600+ practice questions)](https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/)
 
 ### Notes
 
@@ -139,18 +159,22 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 *Learn to develop applications for the cloud*
 
-* [Official Certification Page](https://aws.amazon.com/certification/certified-developer-associate/)
+### Official Pages
+
+* [Certification Page](https://aws.amazon.com/certification/certified-developer-associate/)
+* [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
 
 ### Video Courses
 
-* _free_ [Youtube video course by Andrew Brown of ExamPro: 12 hours video](https://www.youtube.com/watch?v=RrKRN9zRBWs)
-* [A Cloud Guru course by Ryan Kroonenburg and Faye Ellis: 21 hours video and 1 practice exam](https://acloud.guru/learn/aws-certified-developer-associate)
+* [Youtube video course by Andrew Brown of ExamPro: 12 hours video](https://www.youtube.com/watch?v=RrKRN9zRBWs)
+* _paid_ [A Cloud Guru course by Ryan Kroonenburg and Faye Ellis: 21 hours video and 1 practice exam](https://acloud.guru/learn/aws-certified-developer-associate)
  
 ### Practice Exams
 
-* _free_ [20 sample questions by Digital Cloud Training](https://digitalcloud.training/aws-developer-associate-free-practice-exam-questions/)
-* _free_ [AWS Developer - Associate Flash Cards](https://quizlet.com/133479429/aws-developer-associate-flash-cards/)
-* [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)
+* [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
+* [20 sample questions by Digital Cloud Training](https://digitalcloud.training/aws-developer-associate-free-practice-exam-questions/)
+* [AWS Developer - Associate Flash Cards](https://quizlet.com/133479429/aws-developer-associate-flash-cards/)
+* _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)
 
 ### Notes
 
@@ -170,36 +194,18 @@ A curated list of AWS certification materials: videos courses, practice exams, p
  
 ### Video Courses
 
-* [A Cloud Guru course by Ryan Kroonenburg and Faye Ellis: 20 hours video and 1 practice exam](https://acloud.guru/learn/aws-certified-sysops-administrator-associate)
-* [Udemy course by Stephane Maarek: 19.5 hours video and 1 practice tests](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/)
-* [Linux Academy course by Mark Richman: 29 hours video and 10 quizzes/exams](https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01/)
-* 
+* _paid_ [A Cloud Guru course by Ryan Kroonenburg and Faye Ellis: 20 hours video and 1 practice exam](https://acloud.guru/learn/aws-certified-sysops-administrator-associate)
+* _paid_ [Udemy course by Stephane Maarek: 19.5 hours video and 1 practice tests](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/)
+* _paid_ [Linux Academy course by Mark Richman: 29 hours video and 10 quizzes/exams](https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01/)
+ 
 ### Practice Exams
 
-* _free_ [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
-* [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/)
+* [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
+* _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/)
  
 ### Notes
 
 * [AWS Certified SysOps Administrator Associate Exam Study Path](https://tutorialsdojo.com/aws-certified-sysops-administrator-associate/)
-
-
-## Resources
-
-### Books
-
-* [The Good Parts of AWS by Daniel Vassallo and Josh Pschorr](https://gumroad.com/l/aws-good-parts)
-
-### Communities
-
-* [Reddit's r/AWSCertifications](https://www.reddit.com/r/AWSCertifications/)
-* [A Cloud Guru Forums](https://acloud.guru/forums/rooms?p=1)
-* [Linux Academy Community](https://linuxacademy.com/community/)
-
-### Videos
-
-* [Certification Quiz Show on Twitch](https://www.twitch.tv/collections/aFU_9HNWuRWPKQ?filter=collections)
-* [AWS re:Invent Videos](https://www.youtube.com/results?search_query=aws+reinvent)
 
 
 ## License
