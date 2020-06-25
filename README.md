@@ -135,7 +135,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [Youtube video course by Andrew Brown of ExamPro: 10.5 hours video](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 * _paid_ [Udemy course by Stephane Maarek: 23.5 hours video and 2 practice tests](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
 * _paid_ [A Cloud Guru course by Ryan Kroonenburg: 22.7 hours video and 1 practice exam](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
-* _paid_ [Linux Academy course by Adrian Cantrill: 57 hours video and 26 quizzes/exams](https://linuxacademy.com/course/aws-certified-solutions-architect-associate-level/)
+* _paid_ [Video course by Adrian Cantrill: 50+ hours video and 2 practice exams](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02)
 
 ### Practice Exams
 
