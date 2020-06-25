@@ -12,7 +12,6 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 - [AWS Certified Solutions Architect - Associate](#aws-certified-solutions-architect---associate)
 - [AWS Certified Developer - Associate](#aws-certified-developer---associate)
 - [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate)
-- [Tips and Tricks](#tips-and-tricks)
 - [Resources](#resources)
   - [Books](#books)
   - [Communities](#communities)
@@ -31,16 +30,24 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 ## Whitepapers
 
 * [AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+* [AWS: Overview of Security Processes](http://d0.awsstatic.com/whitepapers/Security/AWS%20Security%20Whitepaper.pdf)
 * [AWS Security Best Practices](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
 * [Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 * [Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
 * [Big Data Analytics Options on AWS](https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
+* [How AWS Pricing Works](http://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
+* [Backup, Archive, and Restore Approaches Using AWS](https://d0.awsstatic.com/whitepapers/Backup_Archive_and_Restore_Approaches_Using_AWS.pdf)
 
 
 ## FAQs
 
 * [API Gateway](https://aws.amazon.com/api-gateway/faqs/)
+* [Auto Scaling](https://aws.amazon.com/autoscaling/faqs/)
+* [CloudFormation](https://aws.amazon.com/cloudformation/faqs/)
+* [CloudWatch](https://aws.amazon.com/cloudwatch/faqs/)
+* [CloudTrail](https://aws.amazon.com/cloudtrail/faqs/)
 * [DynamoDB](https://aws.amazon.com/dynamodb/faqs/)
+* [EBS (Elastic Block Store)](https://aws.amazon.com/ebs/faqs/)
 * [EC2](https://aws.amazon.com/ec2/faqs/)
 * [ElastiCache](https://aws.amazon.com/elasticache/faqs/)
 * [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/faqs/)
@@ -52,6 +59,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [Route53](https://aws.amazon.com/route53/faqs/)
 * [S3](https://aws.amazon.com/s3/faqs/)
 * [SQS (Simple Queue Service)](https://aws.amazon.com/sqs/faqs/)
+* [SNS (Simple Notification Service](https://aws.amazon.com/sns/faqs/)
 * [VPC](https://aws.amazon.com/vpc/faqs/)
  
  
@@ -119,9 +127,12 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 ### Notes
 
+* [AWS Certified Solutions Architect Associate Exam &#8211; SAA-C02 Study Path](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/)
 * [Certification Training Notes by Digital Cloud Training](https://digitalcloud.training/certification-training/aws-solutions-architect-associate/)
 * [Passing the AWS solutions architect - Associate exam](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc)
 * [AWS in bullet points](https://github.com/undergroundwires/AWS-in-bullet-points)
+* [alozano-77's personal notes from Adrian Cantrill's (SAA-C02) course](https://github.com/alozano-77/AWS-SAA-C02-Course)
+* [Reddit's u/iCHAIT's notes and tips](https://www.reddit.com/r/AWSCertifications/comments/ewqwk2/passed_aws_solutions_architect_associate_exam/)
 
 
 ## AWS Certified Developer - Associate
@@ -143,9 +154,10 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 ### Notes
 
+* [AWS Certified Developer Associate Exam Study Path](https://tutorialsdojo.com/aws-certified-developer-associate/)
 * [Study Guide Notes](http://clusterfrak.com/notes/certs/aws_deva_notes/)
 * [How did I Pass AWS Certified Developer Associate (AWS CDA) Exam?](https://www.whizlabs.com/blog/aws-certified-developer-associate-exam-review/)
-* 
+ 
 
 ## AWS Certified SysOps Administrator - Associate
 
@@ -155,7 +167,6 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 * [Certification Page](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
 * [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
-* [Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
  
 ### Video Courses
 
@@ -165,9 +176,12 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * 
 ### Practice Exams
 
+* _free_ [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
 * [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/)
-* 
+ 
 ### Notes
+
+* [AWS Certified SysOps Administrator Associate Exam Study Path](https://tutorialsdojo.com/aws-certified-sysops-administrator-associate/)
 
 
 ## Resources
