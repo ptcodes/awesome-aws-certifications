@@ -30,14 +30,16 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 ## Whitepapers
 
+* [AWS Security Best Practices](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
 * [AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 * [AWS: Overview of Security Processes](http://d0.awsstatic.com/whitepapers/Security/AWS%20Security%20Whitepaper.pdf)
-* [AWS Security Best Practices](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
-* [Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
-* [Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
-* [Big Data Analytics Options on AWS](https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
-* [How AWS Pricing Works](http://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
 * [Backup, Archive, and Restore Approaches Using AWS](https://d0.awsstatic.com/whitepapers/Backup_Archive_and_Restore_Approaches_Using_AWS.pdf)
+* [Big Data Analytics Options on AWS](https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
+* [Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
+* [Getting Started with Amazon Aurora](https://d1.awsstatic.com/whitepapers/getting-started-with-amazon-aurora.pdf)
+* [How AWS Pricing Works](http://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
+* [Overview of Amazon Web Services](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
+* [Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 
 
 ## FAQs
@@ -102,6 +104,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 ### Videos Courses
 
 * [Youtube video course by Andrew Brown of ExamPro: 4 hours](https://www.youtube.com/watch?v=3hLmDS179YE)
+* [AWS Cloud Practitioner Essentials (Second Edition)](https://www.aws.training/Details/Curriculum?id=27076)
 * _paid_ [A Cloud Guru course by Ryan Kroonenburg: 9.7 hours and 1 practice exam](https://acloud.guru/learn/aws-certified-cloud-practitioner)
 * _paid_ [Udemy course by Stephane Maarek: 11 hours, 5 articles and 1 practice test](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 * _paid_ [Udemy course by Zeal Vora: 16.5 hours, 14 articles and 1 practice test](https://www.udemy.com/course/aws-certified-cloud-practitioner/)
@@ -119,6 +122,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [AWS Certified Cloud Practitioner Exam Study Path](https://tutorialsdojo.com/aws-certified-cloud-practitioner/)
 * [AWS Practitioner Training Notes / Cheat Sheets](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
 * [Practitioner Exam Online: Here's What Happened](https://dev.to/helenanders26/i-sat-the-aws-cloud-practitioner-exam-online-here-s-what-happened-4chl)
+* [I Sat the AWS Cloud Practitioner Exam Online: Here's What Happened](https://dev.to/helenanders26/i-sat-the-aws-cloud-practitioner-exam-online-here-s-what-happened-4chl)
 
 
 ## AWS Certified Solutions Architect - Associate 
@@ -154,6 +158,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [AWS in bullet points](https://github.com/undergroundwires/AWS-in-bullet-points)
 * [alozano-77's personal notes from Adrian Cantrill's (SAA-C02) course](https://github.com/alozano-77/AWS-SAA-C02-Course)
 * [Reddit's u/iCHAIT's notes and tips](https://www.reddit.com/r/AWSCertifications/comments/ewqwk2/passed_aws_solutions_architect_associate_exam/)
+* [Passing AWS Solutions Architect Associate exam](https://dev.to/tlakomy/passing-aws-solutions-architect-associate-exam-in-2019-2mn1)
 
 
 ## AWS Certified Developer - Associate
