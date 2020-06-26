@@ -16,6 +16,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 - [AWS Certified Solutions Architect - Associate](#aws-certified-solutions-architect---associate)
 - [AWS Certified Developer - Associate](#aws-certified-developer---associate)
 - [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate)
+- [AWS Certified Solutions Architect - Professional](#aws-certified-solutions-architect---professional)
  
  
  ## Official AWS Certification Pages
@@ -195,8 +196,8 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 ### Video Courses
 
 * _paid_ [A Cloud Guru course by Ryan Kroonenburg and Faye Ellis: 20 hours video and 1 practice exam](https://acloud.guru/learn/aws-certified-sysops-administrator-associate)
-* _paid_ [Udemy course by Stephane Maarek: 19.5 hours video and 1 practice tests](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/)
 * _paid_ [Linux Academy course by Mark Richman: 29 hours video and 10 quizzes/exams](https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01/)
+* _paid_ [Udemy course by Stephane Maarek: 19.5 hours video and 1 practice tests](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/)
  
 ### Practice Exams
 
@@ -206,6 +207,32 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 ### Notes
 
 * [AWS Certified SysOps Administrator Associate Exam Study Path](https://tutorialsdojo.com/aws-certified-sysops-administrator-associate/)
+
+
+## AWS Certified Solutions Architect - Professional
+
+### Official Pages
+
+* [Certification Page](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+* [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
+
+### Video Courses
+
+* _paid_ [A Cloud Guru course by Scott Pletcher: 14 hours video, 1 practice exam](https://acloud.guru/learn/aws-certified-solutions-architect-professional)
+* _paid_ [Udemy course by Stephane Maarek: 13 hours video](https://www.udemy.com/course/aws-solutions-architect-professional/)
+
+### Practice Exams
+
+* [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
+
+### Notes
+
+* [AWS Certified Solutions Architect Professional Exam Study Path](https://tutorialsdojo.com/aws-certified-solutions-architect-professional/)
+
+
+## Contribute
+
+Contributions welcome!
 
 
 ## License
