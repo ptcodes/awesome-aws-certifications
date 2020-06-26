@@ -32,6 +32,11 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 * [AWS Security Best Practices](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
 * [AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+* [AWS Well-Architected Framework: Operational Excellence Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf)
+* [AWS Well-Architected Framework: Reliability Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
+* [AWS Well-Architected Framework: Security Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
+* [AWS Well-Architected Framework: Performance Efficiency Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf)
+* [AWS Well-Architected Framework: Cost Optimization Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf)
 * [AWS: Overview of Security Processes](http://d0.awsstatic.com/whitepapers/Security/AWS%20Security%20Whitepaper.pdf)
 * [Backup, Archive, and Restore Approaches Using AWS](https://d0.awsstatic.com/whitepapers/Backup_Archive_and_Restore_Approaches_Using_AWS.pdf)
 * [Big Data Analytics Options on AWS](https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
@@ -75,6 +80,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [Discovering AWS: Short Explanation of Each Service](https://adayinthelifeof.nl/2020/05/20/aws.html)
 * [AWS concepts from A to Z](https://dev.to/helenanders26/aws-series-aws-from-a-to-z-45b1)
 * [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/)
+* [30 minute extension for your AWS Certification exam](https://www.linkedin.com/pulse/30-minute-extension-your-aws-certification-exam-garcia-lozano/)
  
 ### Books
 
@@ -86,10 +92,21 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [A Cloud Guru Forums](https://acloud.guru/forums/rooms?p=1)
 * [Linux Academy Community](https://linuxacademy.com/community/)
 
+## Courses
+
+* [A Cloud Guru](https://acloud.guru/)
+* [Adrian Cantrill](https://learn.cantrill.io/)
+* [DataCumulus](https://courses.datacumulus.com/)
+* [DigitalCloud Training](https://digitalcloud.training/)
+* [ExamPro](https://www.exampro.co/)
+* [Linux Academy](https://linuxacademy.com/)
+* [WhizLabs](https://www.whizlabs.com/)
+
 ### Videos
 
 * [Certification Quiz Show on Twitch](https://www.twitch.tv/collections/aFU_9HNWuRWPKQ?filter=collections)
 * [AWS re:Invent Videos](https://www.youtube.com/results?search_query=aws+reinvent)
+* [AWS Stash: a collection of AWS related videos](https://awsstash.com/)
 
  
 ## AWS Certified Cloud Practitioner
@@ -119,6 +136,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * _paid_ [Whizlabs: 3 Full-Length Mock Exams (195 unique questions) and Practice Tests – 3 Set of the quiz (65 questions in each quiz)](https://www.whizlabs.com/aws-certified-cloud-practitioner/practice-tests/)
 ### Notes
 
+* [AWS CCP - Thoughts, My Journey, My Opinion](https://www.reddit.com/r/AWSCertifications/comments/grlzah/aws_ccp_thoughts_my_journey_my_opinion/)
 * [AWS Certified Cloud Practitioner Exam Study Path](https://tutorialsdojo.com/aws-certified-cloud-practitioner/)
 * [AWS Practitioner Training Notes / Cheat Sheets](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
 * [Practitioner Exam Online: Here's What Happened](https://dev.to/helenanders26/i-sat-the-aws-cloud-practitioner-exam-online-here-s-what-happened-4chl)
@@ -159,7 +177,8 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [alozano-77's personal notes from Adrian Cantrill's (SAA-C02) course](https://github.com/alozano-77/AWS-SAA-C02-Course)
 * [Reddit's u/iCHAIT's notes and tips](https://www.reddit.com/r/AWSCertifications/comments/ewqwk2/passed_aws_solutions_architect_associate_exam/)
 * [Passing AWS Solutions Architect Associate exam](https://dev.to/tlakomy/passing-aws-solutions-architect-associate-exam-in-2019-2mn1)
-
+* [AWS CSAA - Thoughts, My Journey, My Opinion + What Next](https://www.reddit.com/r/AWSCertifications/comments/grn03n/aws_csaa_thoughts_my_journey_my_opinion_what_next/)
+* [Passing the AWS Solutions Architect Associate Exam in 2020](https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd)
 
 ## AWS Certified Developer - Associate
 
