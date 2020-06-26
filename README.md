@@ -201,6 +201,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [20 sample questions by Digital Cloud Training](https://digitalcloud.training/aws-developer-associate-free-practice-exam-questions/)
 * [AWS Developer - Associate Flash Cards](https://quizlet.com/133479429/aws-developer-associate-flash-cards/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)
+* _paid_ [Whizlabs 12 mock exams (745 practice questions)](https://www.whizlabs.com/aws-developer-associate/practice-tests/)
 
 ### Notes
 
@@ -249,10 +250,14 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
+* _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/)
+* _paid_ [Whizlabs 5 mock exams (400 practice questions)](https://www.whizlabs.com/aws-solutions-architect-professional/practice-tests/)
+
 
 ### Notes
 
 * [AWS Certified Solutions Architect Professional Exam Study Path](https://tutorialsdojo.com/aws-certified-solutions-architect-professional/)
+* [My AWS Solution Architect Professional Certification Experience](https://virtualbonzo.com/2020/02/03/my-aws-solution-architect-professional-certification-experience/)
 
 
 ## Contribute
