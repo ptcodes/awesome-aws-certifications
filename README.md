@@ -11,6 +11,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
   - [Articles](#articles)
   - [Books](#books)
   - [Communities](#communities)
+  - [Courses](#courses)
   - [Videos](#videos)
 - [AWS Certified Cloud Practitioner](#aws-certified-cloud-practitioner)
 - [AWS Certified Solutions Architect - Associate](#aws-certified-solutions-architect---associate)
