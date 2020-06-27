@@ -123,6 +123,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 * [Youtube video course by Andrew Brown of ExamPro: 4 hours](https://www.youtube.com/watch?v=3hLmDS179YE)
 * [AWS Cloud Practitioner Essentials (Second Edition)](https://www.aws.training/Details/Curriculum?id=27076)
+* [AWS Certified Cloud Practitioner Training Bootcamp](https://www.youtube.com/watch?v=h5jaLL0jHSQ)
 * _paid_ [A Cloud Guru course by Ryan Kroonenburg: 9.7 hours and 1 practice exam](https://acloud.guru/learn/aws-certified-cloud-practitioner)
 * _paid_ [Udemy course by Stephane Maarek: 11 hours, 5 articles and 1 practice test](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 * _paid_ [Udemy course by Zeal Vora: 16.5 hours, 14 articles and 1 practice test](https://www.udemy.com/course/aws-certified-cloud-practitioner/)
@@ -142,6 +143,8 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [AWS Practitioner Training Notes / Cheat Sheets](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
 * [Practitioner Exam Online: Here's What Happened](https://dev.to/helenanders26/i-sat-the-aws-cloud-practitioner-exam-online-here-s-what-happened-4chl)
 * [I Sat the AWS Cloud Practitioner Exam Online: Here's What Happened](https://dev.to/helenanders26/i-sat-the-aws-cloud-practitioner-exam-online-here-s-what-happened-4chl)
+* [Video: Passing the AWS Certified Cloud Practitioner Exam on the first try!](https://www.youtube.com/watch?v=GS17eaXreoI)
+* [Video: How I passed AWS Certified Cloud Practitioner Exam (882/1000)](https://www.youtube.com/watch?v=iSTz1HLpR8A)
 
 
 ## AWS Certified Solutions Architect - Associate 
@@ -180,6 +183,8 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [Passing AWS Solutions Architect Associate exam](https://dev.to/tlakomy/passing-aws-solutions-architect-associate-exam-in-2019-2mn1)
 * [AWS CSAA - Thoughts, My Journey, My Opinion + What Next](https://www.reddit.com/r/AWSCertifications/comments/grn03n/aws_csaa_thoughts_my_journey_my_opinion_what_next/)
 * [Passing the AWS Solutions Architect Associate Exam in 2020](https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd)
+* [Video: How I passed AWS Certified Solutions Architect - Associate Exam (845/1000)](https://www.youtube.com/watch?v=Yvcv3I2ifFg)
+
 
 ## AWS Certified Developer - Associate
 
@@ -233,6 +238,8 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 ### Notes
 
 * [AWS Certified SysOps Administrator Associate Exam Study Path](https://tutorialsdojo.com/aws-certified-sysops-administrator-associate/)
+* [Video: Passing AWS SysOps Admin First Try! Certification study tips and experience](https://www.youtube.com/watch?v=g_bAuezd6Wk)
+* [Passed AWS Sysops Administrator](https://www.reddit.com/r/AWSCertifications/comments/hgqsyi/passed_aws_sysops_administrator/)
 
 
 ## AWS Certified Solutions Architect - Professional
