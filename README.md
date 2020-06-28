@@ -18,6 +18,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 - [AWS Certified Developer - Associate](#aws-certified-developer---associate)
 - [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate)
 - [AWS Certified Solutions Architect - Professional](#aws-certified-solutions-architect---professional)
+- [AWS Certified DevOps Engineer - Professional](#aws-certified-devops-engineer---professional)
  
  
  ## Official AWS Certification Pages
@@ -265,6 +266,28 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 * [AWS Certified Solutions Architect Professional Exam Study Path](https://tutorialsdojo.com/aws-certified-solutions-architect-professional/)
 * [My AWS Solution Architect Professional Certification Experience](https://virtualbonzo.com/2020/02/03/my-aws-solution-architect-professional-certification-experience/)
+
+
+## AWS Certified DevOps Engineer - Professional
+
+### Official Pages
+
+* [Certification Page](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+* [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Exam-Guide.pdf)
+
+### Video Courses
+
+* _paid_ [A Cloud Guru course by Nick Triantafillou: 10 hours video, 1 practice exam](https://acloud.guru/learn/aws-certified-devops-engineer-professional)
+
+### Practice Exams
+
+* [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Sample-Questions.pdf)
+
+### Notes
+
+* [AWS Certified DevOps Engineer Professional Exam Study Path](https://tutorialsdojo.com/aws-cheat-sheet-aws-certified-devops-engineer-professional/)
+* [What it takes to pass the AWS Certified DevOps Engineer — Professional exam](https://medium.com/@apzuk3/what-it-takes-to-pass-the-aws-certified-devops-engineer-professional-exam-40453cf0e3d4)
+* [4 Tips for Becoming an AWS Certified DevOps Engineer](https://victorops.com/blog/4-tips-for-becoming-an-aws-certified-devops-engineer)
 
 
 ## Contribute
