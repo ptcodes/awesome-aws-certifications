@@ -205,6 +205,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
 * [20 sample questions by Digital Cloud Training](https://digitalcloud.training/aws-developer-associate-free-practice-exam-questions/)
+* [Whizlabs 25 Practice Questions with Exhaustive Explanations](https://www.whizlabs.com/aws-developer-associate/free-test/)
 * [AWS Developer - Associate Flash Cards](https://quizlet.com/133479429/aws-developer-associate-flash-cards/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)
 * _paid_ [Whizlabs 12 mock exams (745 practice questions)](https://www.whizlabs.com/aws-developer-associate/practice-tests/)
@@ -241,6 +242,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [AWS Certified SysOps Administrator Associate Exam Study Path](https://tutorialsdojo.com/aws-certified-sysops-administrator-associate/)
 * [Video: Passing AWS SysOps Admin First Try! Certification study tips and experience](https://www.youtube.com/watch?v=g_bAuezd6Wk)
 * [Passed AWS Sysops Administrator](https://www.reddit.com/r/AWSCertifications/comments/hgqsyi/passed_aws_sysops_administrator/)
+* [How to become AWS SysOps Administrator Associate?](https://www.testpreptraining.com/blog/how-to-become-aws-sysops-administrator-associate/)
 
 
 ## AWS Certified Solutions Architect - Professional
