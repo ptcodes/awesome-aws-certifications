@@ -19,6 +19,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 - [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate)
 - [AWS Certified Solutions Architect - Professional](#aws-certified-solutions-architect---professional)
 - [AWS Certified DevOps Engineer - Professional](#aws-certified-devops-engineer---professional)
+- [AWS Certified Data Analytics - Specialty](#aws-certified-data-analytics---specialty)
  
  
  ## Official AWS Certification Pages
@@ -247,6 +248,8 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 ## AWS Certified Solutions Architect - Professional
 
+*Learn to design highly available systems*
+
 ### Official Pages
 
 * [Certification Page](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
@@ -290,6 +293,30 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [AWS Certified DevOps Engineer Professional Exam Study Path](https://tutorialsdojo.com/aws-cheat-sheet-aws-certified-devops-engineer-professional/)
 * [What it takes to pass the AWS Certified DevOps Engineer — Professional exam](https://medium.com/@apzuk3/what-it-takes-to-pass-the-aws-certified-devops-engineer-professional-exam-40453cf0e3d4)
 * [4 Tips for Becoming an AWS Certified DevOps Engineer](https://victorops.com/blog/4-tips-for-becoming-an-aws-certified-devops-engineer)
+
+
+## AWS Certified Data Analytics - Specialty
+
+*Learn to design, build, secure, and maintain analytics solutions*
+
+_This certification was formerly known as AWS Certified Big Data - Specialty._
+
+### Official Pages
+
+* [Certification Page](https://d1.awsstatic.com/training-and-certification/docs-data-analytics-specialty/AWS-Certified-Data-Analytics-Specialty_Exam-Guide.pdf)
+* [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-data-analytics-specialty/AWS-Certified-Data-Analytics-Specialty_Exam-Guide.pdf)
+
+### Video Courses
+
+* _paid_ [A Cloud Guru course by Sanjay Kotecha: 14 hours video](https://acloud.guru/learn/aws-certified-big-data-specialty)
+
+### Practice Exams
+
+* [Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-data-analytics-specialty/AWS-Certified-Data-Analytics-Specialty_Sample-Questions.pdf)
+
+### Notes
+
+* [Becoming AWS Certified in Big Data Specialty in 2 Months](https://towardsdatascience.com/becoming-aws-certified-in-big-data-specialty-in-2-months-ecf77d3e06db)
 
 
 ## Contribute
