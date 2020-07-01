@@ -259,13 +259,13 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 * _paid_ [A Cloud Guru course by Scott Pletcher: 14 hours video, 1 practice exam](https://acloud.guru/learn/aws-certified-solutions-architect-professional)
 * _paid_ [Udemy course by Stephane Maarek: 13 hours video](https://www.udemy.com/course/aws-solutions-architect-professional/)
+* *paid* [Linux Academy course by Adrian Cantrill: 52 hours video and 1 quizz/exam](https://linuxacademy.com/course/aws-certified-dev-ops-engineer-professional-level/)
 
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/)
 * _paid_ [Whizlabs 5 mock exams (400 practice questions)](https://www.whizlabs.com/aws-solutions-architect-professional/practice-tests/)
-
 
 ### Notes
 
@@ -283,6 +283,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 ### Video Courses
 
 * _paid_ [A Cloud Guru course by Nick Triantafillou: 10 hours video, 1 practice exam](https://acloud.guru/learn/aws-certified-devops-engineer-professional)
+* *paid* [Linux Academy course by Craig Arcuri: 31 hours video and 10 quizzes/exams](https://linuxacademy.com/course/aws-certified-dev-ops-engineer-professional-level/)
 
 ### Practice Exams
 
@@ -309,6 +310,7 @@ _This certification was formerly known as AWS Certified Big Data - Specialty._
 ### Video Courses
 
 * _paid_ [A Cloud Guru course by Sanjay Kotecha: 14 hours video](https://acloud.guru/learn/aws-certified-big-data-specialty)
+* *paid* [Linux Academy course by Terrence Cox: 18 hours video and 1 practice exam](https://linuxacademy.com/course/aws-certified-big-data-specialty-certification/)
 
 ### Practice Exams
 
