@@ -84,6 +84,7 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 * [AWS concepts from A to Z](https://dev.to/helenanders26/aws-series-aws-from-a-to-z-45b1)
 * [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/)
 * [30 minute extension for your AWS Certification exam](https://www.linkedin.com/pulse/30-minute-extension-your-aws-certification-exam-garcia-lozano/)
+* [AWS Quick Reference Guide](https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat-sheet/)
  
 ### Books
 
