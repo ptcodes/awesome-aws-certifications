@@ -1,6 +1,10 @@
+![Check Markdown links](https://github.com/ptcodes/awesome-aws-certifications/workflows/Check%20Markdown%20links/badge.svg)
+
 # Awesome AWS Certifications
 
 A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc.
+
+We encourage you to contribute to Awesome AWS Certifications! Please check out the [contributing guide](https://github.com/ptcodes/awesome-aws-certifications/blob/master/CONTRIBUTING.md) for guidelines about how to proceed.
 
 ## Contents
 
