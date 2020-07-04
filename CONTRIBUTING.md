@@ -1,8 +1,8 @@
-# Contributing to Awesome AWS Certification
+# Contributing to Awesome AWS Certifications
 
 Thanks for taking the time to contribute :+1:
 
-The following document is a set of guidelines for contributing to Awesome AWS Certification. These are just guidelines, not rules, use your best judgment and feel free to propose changes to this project. Also, please read our [code of conduct](https://github.com/ptcodes/awesome-aws-certifications/blob/master/CODE_OF_CONDUCT.md) prior to submitting an issue or pull request.
+The following document is a set of guidelines for contributing to Awesome AWS Certifications. These are just guidelines, not rules, use your best judgment and feel free to propose changes to this project. Also, please read our [code of conduct](https://github.com/ptcodes/awesome-aws-certifications/blob/master/CODE_OF_CONDUCT.md) prior to submitting an issue or pull request.
 
 ## How Can I Contribute
 
