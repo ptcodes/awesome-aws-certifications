@@ -150,6 +150,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [I Sat the AWS Cloud Practitioner Exam Online: Here's What Happened](https://dev.to/helenanders26/i-sat-the-aws-cloud-practitioner-exam-online-here-s-what-happened-4chl)
 * [Video: Passing the AWS Certified Cloud Practitioner Exam on the first try!](https://www.youtube.com/watch?v=GS17eaXreoI)
 * [Video: How I passed AWS Certified Cloud Practitioner Exam (882/1000)](https://www.youtube.com/watch?v=iSTz1HLpR8A)
+* [Rishab Kumar's Notes on AWS Certfied Cloud Practitioner](https://rishabkumar7.github.io/CloudNotes/CPP.html)
 
 
 ## AWS Certified Solutions Architect - Associate 
@@ -189,6 +190,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS CSAA - Thoughts, My Journey, My Opinion + What Next](https://www.reddit.com/r/AWSCertifications/comments/grn03n/aws_csaa_thoughts_my_journey_my_opinion_what_next/)
 * [Passing the AWS Solutions Architect Associate Exam in 2020](https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd)
 * [Video: How I passed AWS Certified Solutions Architect - Associate Exam (845/1000)](https://www.youtube.com/watch?v=Yvcv3I2ifFg)
+* [Rishab Kumar's Notes on Solutions Architect Associate](https://rishabkumar7.github.io/CloudNotes/SAA.html)
 
 
 ## AWS Certified Developer - Associate
@@ -219,6 +221,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS Certified Developer Associate Exam Study Path](https://tutorialsdojo.com/aws-certified-developer-associate/)
 * [Study Guide Notes](http://clusterfrak.com/notes/certs/aws_deva_notes/)
 * [How did I Pass AWS Certified Developer Associate (AWS CDA) Exam?](https://www.whizlabs.com/blog/aws-certified-developer-associate-exam-review/)
+* [Rishab Kumar's Notes on Certified Developer Associate](https://rishabkumar7.github.io/CloudNotes/CDA.html)
  
 
 ## AWS Certified SysOps Administrator - Associate
