@@ -22,10 +22,10 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 - [AWS Certified Solutions Architect - Professional](#aws-certified-solutions-architect---professional)
 - [AWS Certified DevOps Engineer - Professional](#aws-certified-devops-engineer---professional)
 - [AWS Certified Data Analytics - Specialty](#aws-certified-data-analytics---specialty)
- 
- 
+- [AWS Certified Database - Specialty](#aws-certified-database---specialty)
+
  ## Official AWS Certification Pages
- 
+
 * [Currently Available AWS Certifications](https://aws.amazon.com/certification/)
 * [AWS Certification Preparation Page](https://aws.amazon.com/certification/certification-prep/)
 * [AWS Training](https://aws.amazon.com/training/)
@@ -74,8 +74,8 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [SQS (Simple Queue Service)](https://aws.amazon.com/sqs/faqs/)
 * [SNS (Simple Notification Service](https://aws.amazon.com/sns/faqs/)
 * [VPC](https://aws.amazon.com/vpc/faqs/)
- 
- 
+
+
 ## Learning Resources
 
 ### Articles
@@ -87,7 +87,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/)
 * [30 minute extension for your AWS Certification exam](https://www.linkedin.com/pulse/30-minute-extension-your-aws-certification-exam-garcia-lozano/)
 * [AWS Quick Reference Guide](https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat-sheet/)
- 
+
 ### Books
 
 * _paid_ [The Good Parts of AWS by Daniel Vassallo and Josh Pschorr](https://gumroad.com/l/aws-good-parts)
@@ -114,7 +114,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS re:Invent Videos](https://www.youtube.com/results?search_query=aws+reinvent)
 * [AWS Stash: a collection of AWS related videos](https://awsstash.com/)
 
- 
+
 ## AWS Certified Cloud Practitioner
 
 *Learn cloud fundamentals and best practices*
@@ -132,7 +132,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [A Cloud Guru course by Ryan Kroonenburg: 9.7 hours and 1 practice exam](https://acloud.guru/learn/aws-certified-cloud-practitioner)
 * _paid_ [Udemy course by Stephane Maarek: 11 hours, 5 articles and 1 practice test](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 * _paid_ [Udemy course by Zeal Vora: 16.5 hours, 14 articles and 1 practice test](https://www.udemy.com/course/aws-certified-cloud-practitioner/)
-* _paid_ [Whizlabs course: 6 hours and 21 labs](https://www.whizlabs.com/aws-certified-cloud-practitioner/online-course/) 
+* _paid_ [Whizlabs course: 6 hours and 21 labs](https://www.whizlabs.com/aws-certified-cloud-practitioner/online-course/)
 * _paid_ [Udemy course by Alan Rodrigues: 9 hours, 13 articles and 2 practice tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-2018/)
 
 ### Practice Exams
@@ -153,7 +153,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Rishab Kumar's Notes on AWS Certfied Cloud Practitioner](https://rishabkumar7.github.io/CloudNotes/CPP.html)
 
 
-## AWS Certified Solutions Architect - Associate 
+## AWS Certified Solutions Architect - Associate
 
 *Learn to design highly available systems*
 
@@ -162,7 +162,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Certification Page](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 * [Exam Guide for SAA-C01](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate-Exam_Guide_1.8.pdf)
 * [Exam Guide for SAA-C02](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
- 
+
 ### Video Courses
 
 * [Youtube video course by Andrew Brown of ExamPro: 10.5 hours video](https://www.youtube.com/watch?v=Ia-UEYYR44s)
@@ -206,7 +206,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 
 * [Youtube video course by Andrew Brown of ExamPro: 12 hours video](https://www.youtube.com/watch?v=RrKRN9zRBWs)
 * _paid_ [A Cloud Guru course by Ryan Kroonenburg and Faye Ellis: 21 hours video and 1 practice exam](https://acloud.guru/learn/aws-certified-developer-associate)
- 
+
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
@@ -222,7 +222,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Study Guide Notes](http://clusterfrak.com/notes/certs/aws_deva_notes/)
 * [How did I Pass AWS Certified Developer Associate (AWS CDA) Exam?](https://www.whizlabs.com/blog/aws-certified-developer-associate-exam-review/)
 * [Rishab Kumar's Notes on Certified Developer Associate](https://rishabkumar7.github.io/CloudNotes/CDA.html)
- 
+
 
 ## AWS Certified SysOps Administrator - Associate
 
@@ -232,18 +232,18 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 
 * [Certification Page](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
 * [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
- 
+
 ### Video Courses
 
 * _paid_ [A Cloud Guru course by Ryan Kroonenburg and Faye Ellis: 20 hours video and 1 practice exam](https://acloud.guru/learn/aws-certified-sysops-administrator-associate)
 * _paid_ [Linux Academy course by Mark Richman: 29 hours video and 10 quizzes/exams](https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01/)
 * _paid_ [Udemy course by Stephane Maarek: 19.5 hours video and 1 practice tests](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/)
- 
+
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/)
- 
+
 ### Notes
 
 * [AWS Certified SysOps Administrator Associate Exam Study Path](https://tutorialsdojo.com/aws-certified-sysops-administrator-associate/)
@@ -324,12 +324,33 @@ _This certification was formerly known as AWS Certified Big Data - Specialty._
 
 ### Practice Exams
 
-* [Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-data-analytics-specialty/AWS-Certified-Data-Analytics-Specialty_Sample-Questions.pdf)
+* [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-data-analytics-specialty/AWS-Certified-Data-Analytics-Specialty_Sample-Questions.pdf)
 
 ### Notes
 
 * [Becoming AWS Certified in Big Data Specialty in 2 Months](https://towardsdatascience.com/becoming-aws-certified-in-big-data-specialty-in-2-months-ecf77d3e06db)
 * [Becoming an AWS Certified Data Analytics — NEW April 2020](https://towardsdatascience.com/becoming-an-aws-certified-data-analytics-new-april-2020-4a3ef0d9f23a)
+
+
+## AWS Certified Database - Specialty
+
+*Validate your ability to recommend, design, and maintain the optimal AWS database solution to improve performance, reduce costs, and enable innovation*
+
+### Official Pages
+
+* [Certification Page](https://aws.amazon.com/certification/certified-database-specialty/)
+* [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-database-specialty/AWS-Certified-Database-Specialty_Exam-Guide.pdf)
+
+### Video Courses
+
+
+### Practice Exams
+
+* [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-database-specialty/AWS-Certified-Database-Specialty_Sample-Questions.pdf)
+
+### Notes
+
+* [How to prepare and pass the AWS Database Specialty Exam (and chill)?](https://medium.com/@ajinkyakiransoitkar/how-to-prepare-and-pass-the-aws-database-specialty-exam-and-chill-2b100a50319f)
 
 
 ## Contribute
