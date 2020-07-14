@@ -191,6 +191,8 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Passing the AWS Solutions Architect Associate Exam in 2020](https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd)
 * [Video: How I passed AWS Certified Solutions Architect - Associate Exam (845/1000)](https://www.youtube.com/watch?v=Yvcv3I2ifFg)
 * [Rishab Kumar's Notes on Solutions Architect Associate](https://rishabkumar7.github.io/CloudNotes/SAA.html)
+* [AWS SAA-C02 Study Guide](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide)
+* [Personal notes from Adrian Cantrill's (SAA-C02) course](https://github.com/alozano-77/AWS-SAA-C02-Course)
 
 
 ## AWS Certified Developer - Associate
