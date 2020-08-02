@@ -193,6 +193,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Rishab Kumar's Notes on Solutions Architect Associate](https://rishabkumar7.github.io/CloudNotes/SAA.html)
 * [AWS SAA-C02 Study Guide](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide)
 * [Personal notes from Adrian Cantrill's (SAA-C02) course](https://github.com/alozano-77/AWS-SAA-C02-Course)
+* [How I get the AWS Solution Architect Associate Certificate in 90 hours. (SAA-C02)](https://www.reddit.com/r/AWSCertifications/comments/ho2zo7/how_i_get_the_aws_solution_architect_associate/)
 
 
 ## AWS Certified Developer - Associate
