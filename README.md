@@ -86,6 +86,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/)
 * [30 minute extension for your AWS Certification exam](https://www.linkedin.com/pulse/30-minute-extension-your-aws-certification-exam-garcia-lozano/)
 * [AWS Quick Reference Guide](https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat-sheet/)
+* [8 Steps to the Ultimate AWS Certification Plan](https://www.webagesolutions.com/8-steps-to-the-ultimate-aws-certification-plan-for-2021)
 
 ### Books
 
