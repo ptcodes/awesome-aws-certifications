@@ -97,6 +97,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Reddit's r/AWSCertifications](https://www.reddit.com/r/AWSCertifications/)
 * [A Cloud Guru Forums](https://acloud.guru/forums/rooms?p=1)
 * [Linux Academy Community](https://linuxacademy.com/community/)
+* [ExamTopics Free Exam Material](https://www.examtopics.com/exams/amazon/)
 
 ## Courses
 
@@ -115,7 +116,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS Stash: a collection of AWS related videos](https://awsstash.com/)
 
 
-## AWS Certified Cloud Practitioner
+## AWS Certified Cloud Practitioner (CLF-C01)
 
 *Learn cloud fundamentals and best practices*
 
@@ -138,6 +139,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
+* [Exam topics +800 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/)
 * _paid_ [Udemy Practice Exam Questions by Neal Davis: 6 practice tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
 * _paid_ [Whizlabs: 3 Full-Length Mock Exams (195 unique questions) and Practice Tests – 3 Set of the quiz (65 questions in each quiz)](https://www.whizlabs.com/aws-certified-cloud-practitioner/practice-tests/)
@@ -153,7 +155,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Rishab Kumar's Notes on AWS Certfied Cloud Practitioner](https://rishabkumar7.github.io/CloudNotes/CPP.html)
 
 
-## AWS Certified Solutions Architect - Associate
+## AWS Certified Solutions Architect - Associate (SAA-C02)
 
 *Learn to design highly available systems*
 
@@ -175,6 +177,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Official Sample Questions for SAA-C01](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf)
 * [Official Sample Questions for SAA-C02](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
 * [20 sample questions by Digital Cloud Training](https://digitalcloud.training/quizzes/aws-certified-solutions-architect-associate-free-practice-questions/)
+* [Exam topics +500 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c02/)
 * _paid_ [Tutorials Dojo 5 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
 * _paid_ [Whizlabs 7 mock exams (600+ practice questions)](https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/)
 
@@ -196,7 +199,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [How I get the AWS Solution Architect Associate Certificate in 90 hours. (SAA-C02)](https://www.reddit.com/r/AWSCertifications/comments/ho2zo7/how_i_get_the_aws_solution_architect_associate/)
 
 
-## AWS Certified Developer - Associate
+## AWS Certified Developer - Associate (DVA-C01)
 
 *Learn to develop applications for the cloud*
 
@@ -216,8 +219,10 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [20 sample questions by Digital Cloud Training](https://digitalcloud.training/aws-developer-associate-free-practice-exam-questions/)
 * [Whizlabs 25 Practice Questions with Exhaustive Explanations](https://www.whizlabs.com/aws-developer-associate/free-test/)
 * [AWS Developer - Associate Flash Cards](https://quizlet.com/133479429/aws-developer-associate-flash-cards/)
+* [Exam topics +400 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-developer-associate/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)
 * _paid_ [Whizlabs 12 mock exams (745 practice questions)](https://www.whizlabs.com/aws-developer-associate/practice-tests/)
+* _paid_ [DigitalCloud Training practice exams (+350 questions)](https://digitalcloud.training/courses/aws-certified-developer-associate-practice-exams/)
 
 ### Notes
 
@@ -227,7 +232,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Rishab Kumar's Notes on Certified Developer Associate](https://rishabkumar7.github.io/CloudNotes/CDA.html)
 
 
-## AWS Certified SysOps Administrator - Associate
+## AWS Certified SysOps Administrator - Associate (SOA-C02)
 
 *Learn to automate applications, networks, and systems*
 
@@ -245,6 +250,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
+* [Exam topics](https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/)
 
 ### Notes
@@ -255,7 +261,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [How to become AWS SysOps Administrator Associate?](https://www.testpreptraining.com/blog/how-to-become-aws-sysops-administrator-associate/)
 
 
-## AWS Certified Solutions Architect - Professional
+## AWS Certified Solutions Architect - Professional (SAP-C01)
 
 *Learn to design highly available systems*
 
@@ -273,6 +279,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
+* [Exam topics +800 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/)
 * _paid_ [Whizlabs 5 mock exams (400 practice questions)](https://www.whizlabs.com/aws-solutions-architect-professional/practice-tests/)
 
@@ -282,7 +289,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [My AWS Solution Architect Professional Certification Experience](https://virtualbonzo.com/2020/02/03/my-aws-solution-architect-professional-certification-experience/)
 
 
-## AWS Certified DevOps Engineer - Professional
+## AWS Certified DevOps Engineer - Professional (DOP-C01)
 
 ### Official Pages
 
@@ -298,6 +305,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Sample-Questions.pdf)
+* [Exam topics +500 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-devops-engineer-professional/)
 
 ### Notes
 
@@ -307,7 +315,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [How to pass AWS DevOps Engineer Professional exam?](https://www.testpreptraining.com/blog/how-to-pass-aws-devops-engineer-professional-exam/)
 
 
-## AWS Certified Data Analytics - Specialty
+## AWS Certified Data Analytics - Specialty (DAS-C01)
 
 *Learn to design, build, secure, and maintain analytics solutions*
 
@@ -328,6 +336,7 @@ _This certification was formerly known as AWS Certified Big Data - Specialty._
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-data-analytics-specialty/AWS-Certified-Data-Analytics-Specialty_Sample-Questions.pdf)
+* [Exam topics +100 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-data-analytics-specialty/)
 
 ### Notes
 
@@ -335,7 +344,7 @@ _This certification was formerly known as AWS Certified Big Data - Specialty._
 * [Becoming an AWS Certified Data Analytics — NEW April 2020](https://towardsdatascience.com/becoming-an-aws-certified-data-analytics-new-april-2020-4a3ef0d9f23a)
 
 
-## AWS Certified Database - Specialty
+## AWS Certified Database - Specialty (DBS-C01)
 
 *Validate your ability to recommend, design, and maintain the optimal AWS database solution to improve performance, reduce costs, and enable innovation*
 
@@ -350,6 +359,7 @@ _This certification was formerly known as AWS Certified Big Data - Specialty._
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-database-specialty/AWS-Certified-Database-Specialty_Sample-Questions.pdf)
+* [Exam topics +100 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-database-specialty/)
 
 ### Notes
 
