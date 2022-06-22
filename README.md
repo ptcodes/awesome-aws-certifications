@@ -15,14 +15,14 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
   - [Communities](#communities)
   - [Courses](#courses)
   - [Videos](#videos)
-- [AWS Certified Cloud Practitioner](#aws-certified-cloud-practitioner)
-- [AWS Certified Solutions Architect - Associate](#aws-certified-solutions-architect---associate)
-- [AWS Certified Developer - Associate](#aws-certified-developer---associate)
-- [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate)
-- [AWS Certified Solutions Architect - Professional](#aws-certified-solutions-architect---professional)
-- [AWS Certified DevOps Engineer - Professional](#aws-certified-devops-engineer---professional)
-- [AWS Certified Data Analytics - Specialty](#aws-certified-data-analytics---specialty)
-- [AWS Certified Database - Specialty](#aws-certified-database---specialty)
+- [AWS Certified Cloud Practitioner](#aws-certified-cloud-practitioner-clf-c01)
+- [AWS Certified Solutions Architect - Associate](#aws-certified-solutions-architect---associate-saa-c02)
+- [AWS Certified Developer - Associate](#aws-certified-developer---associate-dva-c01)
+- [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate-soa-c02)
+- [AWS Certified Solutions Architect - Professional](#aws-certified-solutions-architect---professional-sap-c01)
+- [AWS Certified DevOps Engineer - Professional](#aws-certified-devops-engineer---professional-dop-c01)
+- [AWS Certified Data Analytics - Specialty](#aws-certified-data-analytics---specialty-das-c01)
+- [AWS Certified Database - Specialty](#aws-certified-database---specialty-dbs-c01)
 
  ## Official AWS Certification Pages
 
