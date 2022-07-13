@@ -148,7 +148,6 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS CCP - Thoughts, My Journey, My Opinion](https://www.reddit.com/r/AWSCertifications/comments/grlzah/aws_ccp_thoughts_my_journey_my_opinion/)
 * [AWS Certified Cloud Practitioner Exam Study Path](https://tutorialsdojo.com/aws-certified-cloud-practitioner/)
 * [AWS Practitioner Training Notes / Cheat Sheets](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
-* [Practitioner Exam Online: Here's What Happened](https://dev.to/helenanders26/i-sat-the-aws-cloud-practitioner-exam-online-here-s-what-happened-4chl)
 * [I Sat the AWS Cloud Practitioner Exam Online: Here's What Happened](https://dev.to/helenanders26/i-sat-the-aws-cloud-practitioner-exam-online-here-s-what-happened-4chl)
 * [Video: Passing the AWS Certified Cloud Practitioner Exam on the first try!](https://www.youtube.com/watch?v=GS17eaXreoI)
 * [Video: How I passed AWS Certified Cloud Practitioner Exam (882/1000)](https://www.youtube.com/watch?v=iSTz1HLpR8A)
@@ -309,7 +308,6 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 
 ### Notes
 
-* [AWS Certified DevOps Engineer Professional Exam Study Path](https://tutorialsdojo.com/aws-cheat-sheet-aws-certified-devops-engineer-professional/)
 * [What it takes to pass the AWS Certified DevOps Engineer — Professional exam](https://medium.com/@apzuk3/what-it-takes-to-pass-the-aws-certified-devops-engineer-professional-exam-40453cf0e3d4)
 * [4 Tips for Becoming an AWS Certified DevOps Engineer](https://victorops.com/blog/4-tips-for-becoming-an-aws-certified-devops-engineer)
 * [How to pass AWS DevOps Engineer Professional exam?](https://www.testpreptraining.com/blog/how-to-pass-aws-devops-engineer-professional-exam/)
