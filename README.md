@@ -98,6 +98,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [A Cloud Guru Forums](https://acloud.guru/forums/rooms?p=1)
 * [Linux Academy Community](https://linuxacademy.com/community/)
 * [ExamTopics Free Exam Material](https://www.examtopics.com/exams/amazon/)
+* [ExamCert Free Practice Questions](https://www.examcert.app/) - Free AWS practice exams with explanations (CLF-C02, SAA-C03, DVA-C02, SOA-C02 & more)
 
 ## Courses
 
@@ -139,6 +140,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 ### Practice Exams
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
+* [ExamCert Free CLF-C02 Practice Questions](https://www.examcert.app/exams/aws-clf-c02/)
 * [Exam topics +800 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/)
 * _paid_ [Udemy Practice Exam Questions by Neal Davis: 6 practice tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
@@ -173,6 +175,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 
 ### Practice Exams
 
+* [ExamCert Free SAA-C03 Practice Questions](https://www.examcert.app/exams/aws-saa-c03/)
 * [Official Sample Questions for SAA-C01](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf)
 * [Official Sample Questions for SAA-C02](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
 * [20 sample questions by Digital Cloud Training](https://digitalcloud.training/quizzes/aws-certified-solutions-architect-associate-free-practice-questions/)
