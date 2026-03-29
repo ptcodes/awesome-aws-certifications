@@ -369,7 +369,7 @@ _This certification was formerly known as AWS Certified Big Data - Specialty._
 
 ## Contribute
 
-Contributions welcome!
+Contributions are welcome!
 
 
 ## License
