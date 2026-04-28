@@ -125,6 +125,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS Cloud Practitioner Essentials (Second Edition)](https://www.aws.training/Details/Curriculum?id=27076)
 * [AWS Certified Cloud Practitioner Training Bootcamp](https://www.youtube.com/watch?v=h5jaLL0jHSQ)
 * _paid_ [A Cloud Guru course by Ryan Kroonenburg: 9.7 hours and 1 practice exam](https://acloud.guru/learn/aws-certified-cloud-practitioner)
+* - [CertifyQuiz](https://www.certifyquiz.com) — Free AWS certification practice tests with detailed explanations
 
 ### Practice Exams
 
