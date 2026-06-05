@@ -133,6 +133,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Exam topics +800 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
 * [CertifyQuiz](https://www.certifyquiz.com/hub/aws) — Free AWS certification practice tests with detailed explanations
+* [QuizForge.ai](https://quizforge.ai) — Free CLF practice exams generated from the official exam blueprint, with answer explanations in English, Spanish, or Hindi
 
 ### Notes
 
@@ -165,6 +166,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [20 sample questions by Digital Cloud Training](https://digitalcloud.training/quizzes/aws-certified-solutions-architect-associate-free-practice-questions/)
 * [Exam topics +500 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c02/)
 * _paid_ [Tutorials Dojo 5 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
+* [QuizForge.ai](https://quizforge.ai) — Free SAA practice questions generated from the official exam blueprint, with explanations in English, Spanish, or Hindi
 
 ### Notes
 
