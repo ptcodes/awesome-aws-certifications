@@ -129,9 +129,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 
 ### Practice Exams
 
-
-- [Courseiva](https://courseiva.com/questions/aws) — Free AWS certification practice questions for Cloud Practitioner, Solutions Architect, Developer, and SysOps with full explanations.
-
+* [Courseiva](https://courseiva.com/questions/aws) — Free AWS certification practice questions for Cloud Practitioner, Solutions Architect, Developer, and SysOps with full explanations.
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
 * [Exam topics +800 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
@@ -145,7 +143,6 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS Practitioner Training Notes / Cheat Sheets](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
 * [Video: Passing the AWS Certified Cloud Practitioner Exam on the first try!](https://www.youtube.com/watch?v=GS17eaXreoI)
 * [Video: How I passed AWS Certified Cloud Practitioner Exam (882/1000)](https://www.youtube.com/watch?v=iSTz1HLpR8A)
-
 
 ## AWS Certified Solutions Architect - Associate (SAA-C02)
 
