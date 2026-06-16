@@ -16,6 +16,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
   - [Courses](#courses)
   - [Videos](#videos)
 - [AWS Certified Cloud Practitioner](#aws-certified-cloud-practitioner-clf-c01)
+- [AWS Certified AI Practitioner](#aws-certified-ai-practitioner-aif-c01)
 - [AWS Certified Solutions Architect - Associate](#aws-certified-solutions-architect---associate-saa-c02)
 - [AWS Certified Developer - Associate](#aws-certified-developer---associate-dva-c01)
 - [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate-soa-c02)
@@ -136,6 +137,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [CertifyQuiz](https://www.certifyquiz.com/hub/aws) — Free AWS certification practice tests with detailed explanations
 * [QuizForge.ai](https://quizforge.ai) — Free CLF practice exams generated from the official exam blueprint, with answer explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free CLF-C02 practice exams with detailed explanations
+* [CloudCertPrep](https://www.cloudcertprep.io/aws/clf-c02) — Free and open-source CLF-C02 practice exams: 1,050 questions with explanations. No signup, no ads, every answer auditable on GitHub (MIT licensed).
 
 ### Notes
 
@@ -143,6 +145,19 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS Practitioner Training Notes / Cheat Sheets](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
 * [Video: Passing the AWS Certified Cloud Practitioner Exam on the first try!](https://www.youtube.com/watch?v=GS17eaXreoI)
 * [Video: How I passed AWS Certified Cloud Practitioner Exam (882/1000)](https://www.youtube.com/watch?v=iSTz1HLpR8A)
+
+## AWS Certified AI Practitioner (AIF-C01)
+
+*Validate knowledge of AI, machine learning, generative AI, and responsible AI on AWS*
+
+### Official Pages
+
+* [Certification Page](https://aws.amazon.com/certification/certified-ai-practitioner/)
+* [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
+
+### Practice Exams
+
+* [CloudCertPrep](https://www.cloudcertprep.io/aws/aif-c01) — Free and open-source AIF-C01 practice exams: 419 questions with explanations across all five domains. No signup, no ads, MIT licensed.
 
 ## AWS Certified Solutions Architect - Associate (SAA-C02)
 
