@@ -17,6 +17,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
   - [Videos](#videos)
 - [AWS Certified Cloud Practitioner](#aws-certified-cloud-practitioner-clf-c01)
 - [AWS Certified AI Practitioner](#aws-certified-ai-practitioner-aif-c01)
+- [AWS Certified AI Business Strategist](#aws-certified-ai-business-strategist-aib-c01)
 - [AWS Certified Solutions Architect - Associate](#aws-certified-solutions-architect---associate-saa-c02)
 - [AWS Certified Developer - Associate](#aws-certified-developer---associate-dva-c01)
 - [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate-soa-c02)
@@ -158,6 +159,20 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 ### Practice Exams
 
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/aif-c01) — Free and open-source AIF-C01 practice exams: 419 questions with explanations across all five domains. No signup, no ads, MIT licensed.
+
+## AWS Certified AI Business Strategist (AIB-C01)
+
+*Validate the ability to turn AI capabilities into business outcomes, set up responsible AI governance, and scale AI adoption*
+
+### Official Pages
+
+* [Certification Page](https://aws.amazon.com/certification/certified-ai-business-strategist/)
+* [Exam Guide](https://docs.aws.amazon.com/aws-certification/latest/ai-business-strategist-01/ai-business-strategist-01.html)
+* [Exam Prep Plan on AWS Skill Builder](https://skillbuilder.aws/learning-plan/B8J6KKJ45C/exam-prep-plan--aws-certified-ai-business-strategist-aibc01--english/KQ8WMK8CTE)
+
+### Practice Exams
+
+* [AIB-C01 Practice](https://zghanw.github.io/aws-ai-business-strategist/): 340 original scenario questions across all four domains, with a rationale for every option and a timed 85-question mock exam. Free, open source, no signup, MIT licensed.
 
 ## AWS Certified Solutions Architect - Associate (SAA-C02)
 
