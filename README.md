@@ -138,6 +138,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [QuizForge.ai](https://quizforge.ai) — Free CLF practice exams generated from the official exam blueprint, with answer explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free CLF-C02 practice exams with detailed explanations
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/clf-c02) — Free and open-source CLF-C02 practice exams: 1,050 questions with explanations. No signup, no ads, every answer auditable on GitHub (MIT licensed).
+* [Certopolis](https://certopolis.com/?src=awesome-aws) — Free CLF-C02 practice as a city-builder game: 484 questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
 
 ### Notes
 
@@ -158,6 +159,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 ### Practice Exams
 
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/aif-c01) — Free and open-source AIF-C01 practice exams: 419 questions with explanations across all five domains. No signup, no ads, MIT licensed.
+* [Certopolis](https://certopolis.com/?src=awesome-aws) — Free AIF-C01 practice as a city-builder game: 415 questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
 
 ## AWS Certified Solutions Architect - Associate (SAA-C02)
 
@@ -184,6 +186,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [Tutorials Dojo 5 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
 * [QuizForge.ai](https://quizforge.ai) — Free SAA practice questions generated from the official exam blueprint, with explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free SAA-C03 practice exams with detailed explanations
+* [Certopolis](https://certopolis.com/?src=awesome-aws) — Free SAA-C03 practice as a city-builder game: 3,100+ questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
 
 ### Notes
 
@@ -220,6 +223,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)
 * _paid_ [DigitalCloud Training practice exams (+350 questions)](https://digitalcloud.training/courses/aws-certified-developer-associate-practice-exams/)
 * [CertPrepNow](https://certprepnow.com) — Free SAP-C02 practice exams with detailed explanations
+* [Certopolis](https://certopolis.com/?src=awesome-aws) — Free DVA-C02 practice as a city-builder game: 900+ questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
 
 ### Notes
 
