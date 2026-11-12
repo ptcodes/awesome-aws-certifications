@@ -184,6 +184,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [Tutorials Dojo 5 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
 * [QuizForge.ai](https://quizforge.ai) — Free SAA practice questions generated from the official exam blueprint, with explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free SAA-C03 practice exams with detailed explanations
+* [Cloud & SRE Exam Arena](https://fabianimv.github.io/exam-arena/) — Free, open-source SAA-C03 practice simulator with 44 scenarios, per-option diagnostic feedback, and architecture diagrams.
 
 ### Notes
 
