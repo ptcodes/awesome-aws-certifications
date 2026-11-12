@@ -138,6 +138,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [QuizForge.ai](https://quizforge.ai) — Free CLF practice exams generated from the official exam blueprint, with answer explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free CLF-C02 practice exams with detailed explanations
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/clf-c02) — Free and open-source CLF-C02 practice exams: 1,050 questions with explanations. No signup, no ads, every answer auditable on GitHub (MIT licensed).
+* [CertificationTestPrep](https://certificationtestprep.com/clf-c02/) — Free 20-question AWS Certified Cloud Practitioner diagnostic with no account, plus 10 free practice questions, every answer option explained.
 
 ### Notes
 
