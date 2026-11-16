@@ -138,6 +138,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [QuizForge.ai](https://quizforge.ai) — Free CLF practice exams generated from the official exam blueprint, with answer explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free CLF-C02 practice exams with detailed explanations
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/clf-c02) — Free and open-source CLF-C02 practice exams: 1,050 questions with explanations. No signup, no ads, every answer auditable on GitHub (MIT licensed).
+* _paid_ [DBCloud Academy](https://dbcloud.academy/) — Bilingual (English & Spanish) AWS exam simulator with timed, domain-mapped questions and score review. Free practice demo, no signup; 30-day money-back guarantee.
 
 ### Notes
 
