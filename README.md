@@ -140,6 +140,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [QuizForge.ai](https://quizforge.ai) — Free CLF practice exams generated from the official exam blueprint, with answer explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free CLF-C02 practice exams with detailed explanations
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/clf-c02) — Free and open-source CLF-C02 practice exams: 1,050 questions with explanations. No signup, no ads, every answer auditable on GitHub (MIT licensed).
+* [BenchCert](https://benchcert.app/cert/aws-clf-c02) — Active recall CLF-C02 scenario drills and shared responsibility breakdowns with instant verification.
 * [CertifyDeck](https://www.certifydeck.com/en/certifications/clf-c02/sample-questions) — Free CLF-C02 sample questions with explanations, in English and Spanish; the full practice bank and timed mock exams are freemium.
 * [Certopolis](https://certopolis.com/?src=awesome-aws) — Free CLF-C02 practice as a city-builder game: 484 questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
 * _paid_ [CrushCert](https://crushcert.com/aws-cloud-practitioner-practice-test) — Adaptive practice questions, hands-on AWS labs and timed mock exams; 7-day free trial.
@@ -212,6 +213,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [Tutorials Dojo 5 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
 * [QuizForge.ai](https://quizforge.ai) — Free SAA practice questions generated from the official exam blueprint, with explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free SAA-C03 practice exams with detailed explanations
+* [BenchCert](https://benchcert.app/cert/aws-saa-c03) — Active recall SAA-C03 scenario drills with Socratic AI hints, root-cause distractor breakdowns, and 5-question instant trial.
 * [CertifyDeck](https://www.certifydeck.com/en/certifications/saa-c03/sample-questions) — Free SAA-C03 sample questions with explanations, in English and Spanish; the full practice bank and timed mock exams are freemium.
 * [Certopolis](https://certopolis.com/?src=awesome-aws) — Free SAA-C03 practice as a city-builder game: 3,100+ questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
 * _paid_ [CrushCert](https://crushcert.com/aws-solutions-architect-practice-test) — Adaptive practice questions, hands-on AWS labs and timed mock exams; 7-day free trial.
