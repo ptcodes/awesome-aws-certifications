@@ -21,6 +21,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 - [AWS Certified Solutions Architect - Associate](#aws-certified-solutions-architect---associate-saa-c02)
 - [AWS Certified Developer - Associate](#aws-certified-developer---associate-dva-c01)
 - [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate-soa-c02)
+- [AWS Certified Machine Learning Engineer - Associate](#aws-certified-machine-learning-engineer---associate-mla-c02)
 - [AWS Certified Solutions Architect - Professional](#aws-certified-solutions-architect---professional-sap-c01)
 - [AWS Certified DevOps Engineer - Professional](#aws-certified-devops-engineer---professional-dop-c01)
 - [AWS Certified Data Analytics - Specialty](#aws-certified-data-analytics---specialty-das-c01)
@@ -139,6 +140,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [QuizForge.ai](https://quizforge.ai) — Free CLF practice exams generated from the official exam blueprint, with answer explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free CLF-C02 practice exams with detailed explanations
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/clf-c02) — Free and open-source CLF-C02 practice exams: 1,050 questions with explanations. No signup, no ads, every answer auditable on GitHub (MIT licensed).
+* [CertifyDeck](https://www.certifydeck.com/en/certifications/clf-c02/sample-questions) — Free CLF-C02 sample questions with explanations, in English and Spanish; the full practice bank and timed mock exams are freemium.
 * [Certopolis](https://certopolis.com/?src=awesome-aws) — Free CLF-C02 practice as a city-builder game: 484 questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
 * _paid_ [CrushCert](https://crushcert.com/aws-cloud-practitioner-practice-test) — Adaptive practice questions, hands-on AWS labs and timed mock exams; 7-day free trial.
 * [ExamIT Lab](https://examitlab.com/exams/clf-c02) — Free CLF-C02 practice questions with detailed explanations, plus a simulated AWS Management Console for hands-on labs.
@@ -167,6 +169,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 ### Practice Exams
 
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/aif-c01) — Free and open-source AIF-C01 practice exams: 419 questions with explanations across all five domains. No signup, no ads, MIT licensed.
+* [CertifyDeck](https://www.certifydeck.com/en/certifications/aif-c01/sample-questions) — Free AIF-C01 sample questions with explanations, in English and Spanish; the full practice bank and timed mock exams are freemium.
 * [Certopolis](https://certopolis.com/?src=awesome-aws) — Free AIF-C01 practice as a city-builder game: 415 questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
 * _paid_ [CrushCert](https://crushcert.com/aws-ai-practitioner-practice-test) — Adaptive practice questions, hands-on AWS labs and timed mock exams; 7-day free trial.
 
@@ -209,6 +212,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [Tutorials Dojo 5 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
 * [QuizForge.ai](https://quizforge.ai) — Free SAA practice questions generated from the official exam blueprint, with explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free SAA-C03 practice exams with detailed explanations
+* [CertifyDeck](https://www.certifydeck.com/en/certifications/saa-c03/sample-questions) — Free SAA-C03 sample questions with explanations, in English and Spanish; the full practice bank and timed mock exams are freemium.
 * [Certopolis](https://certopolis.com/?src=awesome-aws) — Free SAA-C03 practice as a city-builder game: 3,100+ questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
 * _paid_ [CrushCert](https://crushcert.com/aws-solutions-architect-practice-test) — Adaptive practice questions, hands-on AWS labs and timed mock exams; 7-day free trial.
 * [ExamIT Lab](https://examitlab.com/exams/saa-c03) — Free SAA-C03 practice questions with detailed explanations, plus hands-on labs in a simulated AWS Management Console.
@@ -248,6 +252,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)
 * _paid_ [DigitalCloud Training practice exams (+350 questions)](https://digitalcloud.training/courses/aws-certified-developer-associate-practice-exams/)
 * [CertPrepNow](https://certprepnow.com) — Free SAP-C02 practice exams with detailed explanations
+* [CertifyDeck](https://www.certifydeck.com/en/certifications/dva-c02/sample-questions) — Free DVA-C02 sample questions with explanations, in English and Spanish; the full practice bank and timed mock exams are freemium.
 * [Certopolis](https://certopolis.com/?src=awesome-aws) — Free DVA-C02 practice as a city-builder game: 900+ questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
 * _paid_ [CrushCert](https://crushcert.com/aws-developer-associate-practice-test) — Adaptive practice questions, hands-on AWS labs and timed mock exams; 7-day free trial.
 
@@ -281,6 +286,19 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [AWS Certified SysOps Administrator Associate Exam Study Path](https://tutorialsdojo.com/aws-certified-sysops-administrator-associate/)
 * [Video: Passing AWS SysOps Admin First Try! Certification study tips and experience](https://www.youtube.com/watch?v=g_bAuezd6Wk)
 
+
+## AWS Certified Machine Learning Engineer - Associate (MLA-C02)
+
+*Build, deploy and operate ML and generative AI workloads on AWS*
+
+### Official Pages
+
+* [Certification Page](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/)
+* [Exam Guide](https://docs.aws.amazon.com/aws-certification/latest/machine-learning-engineer-associate-02/machine-learning-engineer-associate-02.html)
+
+### Practice Exams
+
+* [CertifyDeck](https://www.certifydeck.com/en/certifications/mla-c02/sample-questions) — Free MLA-C02 sample questions with explanations, in English and Spanish; the full practice bank and timed mock exams are freemium.
 
 ## AWS Certified Solutions Architect - Professional (SAP-C01)
 
