@@ -213,6 +213,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [Tutorials Dojo 5 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
 * [QuizForge.ai](https://quizforge.ai) — Free SAA practice questions generated from the official exam blueprint, with explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free SAA-C03 practice exams with detailed explanations
+* [Free SAA-C03 practice quiz by ExamPro Cert Prep, with explanations and no signup required.](https://exampro-cert-prep.vercel.app/free-practice-quiz/aws-saa-c03)
 * [BenchCert](https://benchcert.app/cert/aws-saa-c03) — Active recall SAA-C03 scenario drills with Socratic AI hints, root-cause distractor breakdowns, and 5-question instant trial.
 * [CertifyDeck](https://www.certifydeck.com/en/certifications/saa-c03/sample-questions) — Free SAA-C03 sample questions with explanations, in English and Spanish; the full practice bank and timed mock exams are freemium.
 * [Certopolis](https://certopolis.com/?src=awesome-aws) — Free SAA-C03 practice as a city-builder game: 3,100+ questions, each written from the AWS docs page it cites; right answers raise buildings, wrong ones bring the question back. No signup.
