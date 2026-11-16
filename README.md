@@ -155,6 +155,10 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Certification Page](https://aws.amazon.com/certification/certified-ai-practitioner/)
 * [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
 
+### Study Guides
+
+* [AWS Certified AI Practitioner (AIF-C01) Guide](https://aiarch.dev/aws-ai-practitioner-certification) — The five exam domains, who the exam is for, format and cost, and a preparation sequence. Domains, weights and pass mark confirmed against the official exam guide. Ends with five sample questions.
+
 ### Practice Exams
 
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/aif-c01) — Free and open-source AIF-C01 practice exams: 419 questions with explanations across all five domains. No signup, no ads, MIT licensed.
