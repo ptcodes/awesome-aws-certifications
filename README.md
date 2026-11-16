@@ -140,6 +140,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [QuizForge.ai](https://quizforge.ai) — Free CLF practice exams generated from the official exam blueprint, with answer explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free CLF-C02 practice exams with detailed explanations
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/clf-c02) — Free and open-source CLF-C02 practice exams: 1,050 questions with explanations. No signup, no ads, every answer auditable on GitHub (MIT licensed).
+* [180 free CLF-C02 practice questions with explanations by DailyDebian](https://dailydebian.com/blogs/practice-questions/aws-clf-c02-practice-questions)
 * _paid_ [testimea CLF-C02 practice exam](https://testimea.com/product/aws-cloud-practitioner-certification-practise-exam/): Timed practice exam with explanations and per-domain scores, free 5-question sample without signup.
 * [BenchCert](https://benchcert.app/cert/aws-clf-c02) — Active recall CLF-C02 scenario drills and shared responsibility breakdowns with instant verification.
 * [CertifyDeck](https://www.certifydeck.com/en/certifications/clf-c02/sample-questions) — Free CLF-C02 sample questions with explanations, in English and Spanish; the full practice bank and timed mock exams are freemium.
