@@ -149,6 +149,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [CrushCert](https://crushcert.com/aws-cloud-practitioner-practice-test) — Adaptive practice questions, hands-on AWS labs and timed mock exams; 7-day free trial.
 * [ExamIT Lab](https://examitlab.com/exams/clf-c02) — Free CLF-C02 practice questions with detailed explanations, plus a simulated AWS Management Console for hands-on labs.
 * _paid_ [DBCloud Academy](https://dbcloud.academy/) — Bilingual (English & Spanish) AWS exam simulator with timed, domain-mapped questions and score review. Free practice demo, no signup; 30-day money-back guarantee.
+* _paid_ [The Work Gym: two timed CLF-C02 practice exams in a simulated console, mapped to AWS lessons](https://theworkgym.com/certifications/aws-cloud-practitioner/)
 
 ### Notes
 
